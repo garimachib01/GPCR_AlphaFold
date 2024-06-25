@@ -1,4 +1,4 @@
-Protein,Overlap_Ratio,Activity_level,Class
+Protein,Overlap_Ratio_AlphaFold2,Activity_level,Class
 5ht1b,0.995594714,24,A
 5ht2a,1,100,A
 5ht2b,0.995614035,41,A
